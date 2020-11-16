@@ -1,0 +1,15 @@
+{
+  "page": 0,
+  "pageSize": 2147483647,
+  "totalPageCount": 1,
+  "wkda": {
+    "Cabrio": "Cabrio",
+    "Clubman": "Clubman",
+    "Clubvan": "Clubvan",
+    "Countryman": "Countryman",
+    "Coupe": "Coupe",
+    "MINI": "MINI",
+    "Paceman": "Paceman",
+    "Roadster": "Roadster"
+  }
+}
